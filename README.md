@@ -1,0 +1,2 @@
+# .spacemas
+env configuration
